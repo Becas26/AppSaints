@@ -114,9 +114,9 @@ apresentações orais e preparação de suportes visuais.
 ![Calendarização](images/calendarizacao.PNG)
 
 # Bibliografia:
--Instagram
--Onde sair à noite, discotecas, bares e eventos noturnos - Wikinight
--Como criar um Aplicativo Android: Da Ideia ao Lançamento em 10 Passos -
-AndroidPro
--Wikinight. A nova app que é uma agenda da vida noturna portuguesa - Nacional -
+  * Instagram 
+  * Onde sair à noite, discotecas, bares e eventos noturnos - Wikinight  
+  * Como criar um Aplicativo Android: Da Ideia ao Lançamento em 10 Passos -
+AndroidPro  
+  * Wikinight. A nova app que é uma agenda da vida noturna portuguesa - Nacional -
 MAGG (sapo.pt)
