@@ -1,9 +1,9 @@
-Saints
-Universidade Europeia
-IADE- Faculdade de Design, Tecnologia e Comunicação
-Camila Madatali, Rebeca Sampaio e Tatiana Yermachenkava
-https://github.com/Becas26/AppSaints
-
+Saints  
+Universidade Europeia  
+IADE- Faculdade de Design, Tecnologia e Comunicação  
+Camila Madatali, Rebeca Sampaio e Tatiana Yermachenkava  
+https://github.com/Becas26/AppSaints  
+  
 Propuseram-nos a criação de uma nova aplicação, uma aplicação que 
 englobasse os conhecimentos de diversas Unidades Curriculares para ser possível a 
 realização da mesma. Como tal, nosso grupo pretende criar uma aplicação disponha 
