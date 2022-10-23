@@ -96,38 +96,43 @@ registar se na aplicação que será de 16 anos, e a confirmação de identidade
 partir do envio de uma mensagem da nossa aplicação composta por um código que o 
 utilizador vai introduzir no processo do seu registo. Vamos agora enumerar passo a passo 
 o funcionamento da “Saints”:
-6
+
 1. Pela primeira vez que a aplicação é aberta será solicitado o registo do utilizador onde é 
 pedido o seu nome, data de nascimento e número de telefone. E para prosseguir o registo 
 terão de ser aceites os termos e condições, o acesso à câmara e o acesso à localização do 
 dispositivo.
+
 2. De seguida teremos outra página onde o utilizador vai introduzir o código (enviado para 
 o número de telemóvel que introduziu anteriormente) para a validação da conta.
+
 3. Após o registo irá ser encaminhado para a página inicial de “Saints”. Nesta página 
 encontra-se o ícone do perfil de utilizador, no canto superior esquerdo, dentro do perfil 
 permanecem os dados inseridos no registo e os termos e condições. Este ícone será 
 apresentado em todas as páginas da aplicação. 
 Também vamos ter dois botões de grandes dimensões, um a dizer “Bares” e outro 
 “Discotecas”. 
+
 4. Ao clicar no botão “Bares” será encaminhado para uma nova página que vai apresentar 
 as fotografias tiradas em tempo real de todos os utilizadores, em cima da fotografia é 
 possível visualizar o bar onde essa pessoa se encontra e em baixo da fotografia encontrase uma caixa onde podem se inserir comentários em relação à mesma. No final desta 
 página encontra-se outra vez um botão designado por “bares” e no canto direito superior 
 encontra-se uma seta que ao ser clicada o utilizador volta sempre para a página anterior, 
 esta seta vai estra presente em todas as outras páginas da aplicação menos a principal. 
+
 5. Para o utilizador aceder à lista de bares que “Saints” disponibiliza basta carregar em 
 “bares” e será aberta outra página com essa lista. 
+
 6. Se quiser informações detalhadas de cada bar o utilizador terá de selecionar o bar que lhe 
 chamou a atenção e será encaminhado para outra página, nesta página encontram-se 
 informações sobre bar, fotografais do espaço e comentário permanentes sobre o 
 estabelecimento em questão. 
-7
-O mesmo processo de utilização vai se repetir se o utilizador estiver interessado em 
+
+7.O mesmo processo de utilização vai se repetir se o utilizador estiver interessado em 
 encontrar discotecas na cidade de Lisboa simplesmente terá de clicar no botão 
 “Discotecas”. 
 Aqui estão uns mockups de “Saints” para que seja mais fácil visualizar o 
 funcionamento da nossa aplicação.
-8
+
 Enquadramento nas diversas Unidades Curriculares
 • Base de dados: O desenvolvimento de uma base de dados de suporte à gestão de 
 dados do projeto será desenvolvido em PostgreSQL. Iremos utilizar UML 
@@ -141,7 +146,7 @@ utilizando Android Studio Arctic Fox 2020.3.1 Patch 2.
 • Competências comunicacionais: Iremos trabalhar para evoluir a capacidade de 
 comunicação dos projetos para um público leigo, através de apresentações orais 
 e preparação de suportes visuais.
-9
+
 Planeamento e calendarização do projeto:
 10
 Bibliografia
