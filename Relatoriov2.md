@@ -13,7 +13,6 @@ Link para o repositório GitHub: https://github.com/Becas26/AppSaints
 
 
 Índice 
-
 Página    2
 
 Introdução 3
@@ -34,6 +33,7 @@ Bibliografia 10
 
 
 Introdução
+
 Propuseram-nos a criação de uma nova aplicação que englobasse os conhecimentos 
 de diversas Unidades Curriculares para ser possível a realização da mesma. Atualmente 
 existem vários estabelecimentos noturnos em Lisboa, nomeadamente na zona de Santos. O
@@ -43,6 +43,7 @@ pretendemos criar a “Saints”, uma aplicação dinâmica e benéfica que tem 
 facilitar e melhorar a vida noturna das pessoas em Santos. 
 
 Objetivos
+
 Saints não irá só oferecer informações detalhadas, reviews, classificações, guest lists 
 e fotografias do espaço de todas as discotecas e maior parte dos bares na região de Santos, 
 como também será possível para cada utilizador que partilhar fotografias em tempo real da 
@@ -56,7 +57,7 @@ que, regra geral, cada noite tem como associação um determinado espaço noturn
 nem todos têm esse conhecimento, tal como também poderá haver muitos outros espaços 
 que não sejam conhecidos em grande escala, mas que também oferecem tudo para uma 
 ótima noite. 
-4
+
 
 Com esta aplicação queremos evitar a preocupação e a perda de tempo à procura da 
 melhor festa dessa noite ou na pior das hipóteses, que desistam simplesmente dela.
