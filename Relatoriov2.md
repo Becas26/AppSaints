@@ -85,7 +85,7 @@ fotos estas que também podem ser comentadas. A partir das imagens partilhadas n
 a criar interação entre os utilizadores, o que poderá ajudá-los s a criar amizades. 
 Como é possível averiguar, Saints é a juncão aperfeiçoada de duas aplicações fortes 
 no mercado, tornando-a, portanto, uma aplicação útil e relevante.
-5
+
 
 Guiões de Teste
 
@@ -171,7 +171,8 @@ comunicação dos projetos para um público leigo, através de apresentações o
 e preparação de suportes visuais.
 
 Planeamento e calendarização do projeto:
-10
+![Captura de Ecrã (102)](https://user-images.githubusercontent.com/102540581/197422141-1fd513df-5bc9-4050-a2fd-0ba1e41779a5.png)
+
 
 Bibliografia
 • Instagram
