@@ -1,12 +1,17 @@
 1
 Saints
+
 Camila Madatali (20210832), Rebeca Sampaio (20211332) e Tatiana 
 Yermachenkava (20210697)
+
 Universidade Europeia, IADE – curso de Engenharia Informática 
+
 Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolvimento 
 Móvel
+
 Link para o repositório GitHub: https://github.com/Becas26/AppSaints
 2
+
 Índice 
  Página
 Introdução 3
@@ -26,6 +31,7 @@ Bibliografia
 9
 10
 3
+
 Introdução
 Propuseram-nos a criação de uma nova aplicação que englobasse os conhecimentos 
 de diversas Unidades Curriculares para ser possível a realização da mesma. Atualmente 
@@ -34,6 +40,7 @@ problema surge quando chega o momento de decidir onde passar a noite e qual o
 estabelecimento que está mais movimentado. Com o propósito de resolver este problema 
 pretendemos criar a “Saints”, uma aplicação dinâmica e benéfica que tem como objetivo 
 facilitar e melhorar a vida noturna das pessoas em Santos. 
+
 Objetivos
 Saints não irá só oferecer informações detalhadas, reviews, classificações, guest lists 
 e fotografias do espaço de todas as discotecas e maior parte dos bares na região de Santos, 
@@ -49,9 +56,11 @@ nem todos têm esse conhecimento, tal como também poderá haver muitos outros e
 que não sejam conhecidos em grande escala, mas que também oferecem tudo para uma 
 ótima noite. 
 4
+
 Com esta aplicação queremos evitar a preocupação e a perda de tempo à procura da 
 melhor festa dessa noite ou na pior das hipóteses, que desistam simplesmente dela.
 Mercados semelhantes
+
 Para o desenvolvimento da aplicação baseamo-nos em aplicações já existentes no 
 mercado como a “Wikinight” e o “Instagram". A “Wikinight “é uma aplicação de vida 
 noturna que informa os utilizadores de tudo o que vai acontecer a partir das 19h30 nas 
@@ -62,6 +71,7 @@ certo evento, guardando depois esses dados, dando a possibilidade de outros util
 conseguirem ver a estatística. Fazemos comparação da “Wikinight” com a “Saints” uma 
 vez que também tem o propósito de dar aos utilizadores os estabelecimentos que terão 
 maior êxito nessa noite.
+
 Tal como referido anteriormente, haverá a oportunidade de partilhar em tempo real 
 fotografias e comentários com a intenção de tornar “Saints” uma aplicação mais dinâmica. 
 As partilhas realizadas, em formato de fotografia, terão uma validade de 12 horas esta 
@@ -73,23 +83,29 @@ a criar interação entre os utilizadores, o que poderá ajudá-los s a criar am
 Como é possível averiguar, Saints é a juncão aperfeiçoada de duas aplicações fortes 
 no mercado, tornando-a, portanto, uma aplicação útil e relevante.
 5
+
 Guiões de Teste
+
 Guião 1 (objeto core do projeto): Um grupo de amigos encontra-se na zona de 
 Santos e não conseguem fazer uma decisão na escolha da discoteca onde vão a seguir, 
 basta abrirem “Saints” e conseguem ver onde a noite vai valer mais a pena e onde vai 
 existir mais movimento. 
+
 Guião 2 (utilização diferente do core do projeto): Um turista que não conhece a 
 cidade de Lisboa decide que quer explorar a vida noturna em Santos, através da nossa 
 aplicação para além de conseguir ver quais os bares ou discotecas que vão ter mais 
 movimento, também conseguem encontrar as reviews de cada estabelecimento tendo em 
 conta que tudo o que se encontra na cidade é uma novidade para o turista e assim pode 
 analisar cada espaço consoante o seu agrado. 
+
 Guião 3 (utilização diferente do core do projeto): Como “Saints” vai ser a aplicação 
 mais completa na área da vida noturna na cidade de Lisboa, alguém que tenha interesse em 
 mostrar como decorrem as noites em Santos pode retirar informações em relação a este 
 tópico e partilhar com toda a gente a sua opinião composta sobre a atividade durante a 
 noite em Santos.
+
 Utilização da aplicação
+
 A nossa aplicação está pensada em ser simples e eficaz na sua utilização para que 
 possa ser funcional para todos os utilizadores, existindo um limite mínimo de idade para 
 registar se na aplicação que será de 16 anos, e a confirmação de identidade será realizada a 
@@ -134,21 +150,26 @@ Aqui estão uns mockups de “Saints” para que seja mais fácil visualizar o
 funcionamento da nossa aplicação.
 
 Enquadramento nas diversas Unidades Curriculares
+
 • Base de dados: O desenvolvimento de uma base de dados de suporte à gestão de 
 dados do projeto será desenvolvido em PostgreSQL. Iremos utilizar UML 
 integrando-se nesta UC.
+
 • Programação Orientada a Objetos: Temos como objetivo desenvolver um 
 servidor em Spring Boot usando arquitetura REST, realizar integração da 
 aplicação com a base de dados, fazer a gestão de versões usando GIt e a criação 
 da documentação. 
+
 • Programação de Dispositivos Móveis: A aplicação móvel será desenvolvida, 
 utilizando Android Studio Arctic Fox 2020.3.1 Patch 2.
+
 • Competências comunicacionais: Iremos trabalhar para evoluir a capacidade de 
 comunicação dos projetos para um público leigo, através de apresentações orais 
 e preparação de suportes visuais.
 
 Planeamento e calendarização do projeto:
 10
+
 Bibliografia
 • Instagram
 • Onde sair à noite, discotecas, bares e eventos noturnos - wikinight
