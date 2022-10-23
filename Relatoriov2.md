@@ -1,4 +1,4 @@
-1
+
 Saints
 
 Camila Madatali (20210832), Rebeca Sampaio (20211332) e Tatiana 
@@ -10,10 +10,10 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 Móvel
 
 Link para o repositório GitHub: https://github.com/Becas26/AppSaints
-2
+
 
 Índice 
- Página
+Página    2
 Introdução 3
 Objetivos 3
 Mercados semelhantes
