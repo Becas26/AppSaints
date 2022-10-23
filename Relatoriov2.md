@@ -146,9 +146,10 @@ chamou a atenção e será encaminhado para outra página, nesta página encontr
 informações sobre bar, fotografais do espaço e comentário permanentes sobre o 
 estabelecimento em questão. 
 
-7.O mesmo processo de utilização vai se repetir se o utilizador estiver interessado em 
+7. O mesmo processo de utilização vai se repetir se o utilizador estiver interessado em 
 encontrar discotecas na cidade de Lisboa simplesmente terá de clicar no botão 
 “Discotecas”. 
+
 Aqui estão uns mockups de “Saints” para que seja mais fácil visualizar o 
 funcionamento da nossa aplicação.
 
@@ -171,6 +172,7 @@ comunicação dos projetos para um público leigo, através de apresentações o
 e preparação de suportes visuais.
 
 Planeamento e calendarização do projeto:
+
 ![Captura de Ecrã (102)](https://user-images.githubusercontent.com/102540581/197422141-1fd513df-5bc9-4050-a2fd-0ba1e41779a5.png)
 
 
