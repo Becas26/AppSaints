@@ -13,24 +13,25 @@ Link para o repositório GitHub: https://github.com/Becas26/AppSaints
 
 
 Índice 
+
 Página    2
+
 Introdução 3
+
 Objetivos 3
-Mercados semelhantes
-Guiões de teste
-Utilização da aplicação
-Enquadramento nas diversas Unidades 
-Curriculares
-Planeamento e calendarização do 
-projeto
-Bibliografia
-4
-5
-5
-8
-9
-10
-3
+
+Mercados semelhantes 4
+
+Guiões de teste      5 
+
+Utilização da aplicação 5
+
+Enquadramento nas diversas Unidades Curriculares 8
+
+Planeamento e calendarização do projeto 9
+
+Bibliografia 10
+
 
 Introdução
 Propuseram-nos a criação de uma nova aplicação que englobasse os conhecimentos 
