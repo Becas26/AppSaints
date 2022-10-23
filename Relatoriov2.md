@@ -153,6 +153,9 @@ encontrar discotecas na cidade de Lisboa simplesmente terá de clicar no botão
 Aqui estão uns mockups de “Saints” para que seja mais fácil visualizar o 
 funcionamento da nossa aplicação.
 
+![9fccf5d9-a4fc-4870-8ecf-2410cf4dedee](https://user-images.githubusercontent.com/102540581/197422284-c26d87b4-2363-4faa-b8c4-35c3fa5dcafc.jpg)
+![9fccf5d9-a4fc-4870-8ecf-2410cf4dedee (1)](https://user-images.githubusercontent.com/102540581/197422307-2ca7b838-9067-4c78-93b4-d481593d810a.jpg)
+
 Enquadramento nas diversas Unidades Curriculares
 
 • Base de dados: O desenvolvimento de uma base de dados de suporte à gestão de 
