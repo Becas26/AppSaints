@@ -10,7 +10,7 @@ create table cPermanente (
 	comp_id SERIAL NOT NULL CONSTRAINT comp_pkey PRIMARY KEY,
 	comp_bd_id INT,
 	comp_usr_id INT,
-    comp_txt VARCHAR(60) NOT NULL,
+        comp_txt VARCHAR(60) NOT NULL,
 
     CONSTRAINT comp_fk_usr FOREIGN KEY (comp_usr_id) REFERENCES users(usr_id) 
     ON DELETE NO ACTION ON UPDATE NO ACTION
@@ -18,7 +18,7 @@ create table cPermanente (
 		
 
 create table CEO (
-    ceo_id SERIAL NOT NULL CONSTRAINT CEO_pkey PRIMARY KEY,
+        ceo_id SERIAL NOT NULL CONSTRAINT CEO_pkey PRIMARY KEY,
 	ceo_usr_id INT,
 	ceo_cod varchar(60) NOT NULL
 );
@@ -51,7 +51,7 @@ create table post (
 	post_id SERIAL NOT NULL CONSTRAINT post_pkey PRIMARY KEY,
 	post_usr_id int not null,
 	post_bd_id int not null,
-    post_txt VARCHAR(200) NOT NULL,
+        post_txt VARCHAR(200) NOT NULL,
 
     CONSTRAINT post_fk_usr
     FOREIGN KEY (post_usr_id) REFERENCES users(usr_id) 
@@ -63,10 +63,10 @@ create table post (
 );
 
 create table guest (
-guest_id SERIAL NOT NULL CONSTRAINT guest_pkey PRIMARY KEY,
-guest_rp_id int NOT NULL,
-guest_bd_id int NOT NULL,
-guest_txt VARCHAR(200) NOT NULL,
+	guest_id SERIAL NOT NULL CONSTRAINT guest_pkey PRIMARY KEY,
+	guest_rp_id int NOT NULL,
+	guest_bd_id int NOT NULL,
+	guest_txt VARCHAR(200) NOT NULL,
 
 CONSTRAINT guest_fk_rp FOREIGN KEY (guest_rp_id) REFERENCES rp(rp_id)
 ON DELETE NO ACTION ON UPDATE NO ACTION,
