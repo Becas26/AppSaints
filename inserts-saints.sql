@@ -92,20 +92,38 @@ Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Tatiana', 
 Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Camila', 'Tarzan007', '2003-12-19','929 056 735' );
 Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Rodrigo', '1234', '2000-04-29','929 596 640' );
 Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Julia', '020202', '2002-03-08','961 869 054' );
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Maria', '030303', '2003-12-02','967 056 735' );
-
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Margarida', '030303', '2003-12-02','967 056 735' );
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mariana', '010101', '2001-02-03','555 000 555');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Gonçalo', 'Camila10', '2003-08-21','100 011 022');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Rita', 'linda', '2004-05-04','400 505 555');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Sofia', '1874', '2001-09-18','201 090 180');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Valentina', 'peixinho', '1996-08-16','897 222 559');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Salvador', 'Mariana03', '2001-12-24','102 000 224');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mateus', 'Bares97', '1997-01-01','010 101 997');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Martim', 'Martinhocas', '1990-06-03','879 000 595');
 //cPermanente
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (2, 1, 'Espaço lindo');
-insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (1, 5, 'Seguranças antipáticos');
-insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (2,4, 'Ambiente agradável');
-insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (1, 3, 'Aconselho a visitar com amigos')
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (12, 5, 'Seguranças antipáticos');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (4,4, 'Ambiente agradável');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (5, 3, 'Frequentado por muitos estrageiros, sem queixas');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (9,6,'Muito giro');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (11,12, 'Falta de papel higiénico na casa de banho');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (15,13,'Espaço muito pequeno para a quantidade de pessoas que deixam entrar!');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (17, 10,'Ótimo atendimento no bar');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (20,9,'Música muito boa');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (1,2,'Noites mágicas acontecem aqui ;)');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (23,7'Deveriam rever os preços...');
 
 
 // comentario
 insert into comentario (com_usr_id, com_post_id, com_txt) values (3, 4, 'Está vazio. NÃO VENHAM' );
 Insert into comentario(com_usr_id, com_post_id, com_txt) values (2, 3, 'Malta venham todos para aqui, está ótimo!!!');
 insert into comentario(com_usr_id, com_post_id, com_txt) values (5,1, 'Muito cheio');
-insert into comentario(com_usr_id, com_post_id, com_txt) values (4, 2, 'hoje não é dia de virem para aqui!');
+insert into comentario(com_usr_id, com_post_id, com_txt) values (4, 4, 'hoje não é dia de virem para aqui!');
+insert into comentario(com_usr_id, com_post_id, com_txt) values (10, 2, 'parece que vou ser assaltada na fila...');
+insert into comentario(com_usr_id, com_post_id, com_txt) values (8, 2, 'acabei de ser barrada, sugestões?');
+insert into comentario(com_usr_id, com_post_id, com_txt) values (12, 2, 'A música está mesmo boa, vale a pena');
+insert into comentario(com_usr_id, com_post_id, com_txt) values (11, 1, 'tragam papel convosco porque aqui acabou');
 
 //imagens
 insert into imagens(img_bd_id, img_ceo_id, img_url) values (1,2,'https://media-cdn.tripadvisor.com/media/photo-s/12/d4/00/55/piso-0-club.jpg');
