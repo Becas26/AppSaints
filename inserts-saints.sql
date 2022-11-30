@@ -101,6 +101,8 @@ insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Valentina
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Salvador', 'Mariana03', '2001-12-24','102 000 224');
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mateus', 'Bares97', '1997-01-01','010 101 997');
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Martim', 'Martinhocas', '1990-06-03','879 000 595');
+
+
 //cPermanente
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (2, 1, 'Espaço lindo');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (12, 5, 'Seguranças antipáticos');
@@ -113,6 +115,12 @@ insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (17, 10,'Ótim
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (20,9,'Música muito boa');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (1,2,'Noites mágicas acontecem aqui ;)');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (23,7'Deveriam rever os preços...');
+
+//post
+insert into post (post_usr_id, post_bd_id, post_txt) values (2, 1, 'https://lifecooler.com/files/registos/imagens/461421/400794.jpg');
+insert into post (post_usr_id, post_bd_id, post_txt) values (1, 11, 'https://yt3.ggpht.com/a/AATXAJwuToYnwwkIvYe--lRXXHRWWb6Jz-vAQ29qiQ=s900-c-k-c0xffffffff-no-rj-mo');
+insert into post (post_usr_id, post_bd_id, post_txt) values (3, 12, 'https://th.bing.com/th/id/OIP.W-TpSkn3MaNd18l3rRyRTwHaDV?pid=ImgDet&rs=1');
+insert into post (post_usr_id, post_bd_id, post_txt) values(4 , 13, 'https://magnolia-portugal.dunegestion.com/w4/php/dune/file.php?file=92003_lux.jpg&hash=e13e56e1f6');
 
 
 // comentario
@@ -130,12 +138,6 @@ insert into imagens(img_bd_id, img_ceo_id, img_url) values (1,2,'https://media-c
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (1,1,'https://cdn.cmjornal.pt/images/2016-11/img_900x509$2016_11_03_17_15_00_573716.jpg');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (1,3, 'https://th.bing.com/th/id/OIP.qBT0_yfOZHKS2Et5qtQ5jAHaE6?pid=ImgDet&rs=1');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (2,1, 'https://lifecooler.com/files/registos/imagens/299316/210229.jpg');
-
-//post
-insert into post (post_usr_id, post_bd_id, post_txt) values (2, 1, 'https://lifecooler.com/files/registos/imagens/461421/400794.jpg');
-insert into post (post_usr_id, post_bd_id, post_txt) values (1, 11, 'https://yt3.ggpht.com/a/AATXAJwuToYnwwkIvYe--lRXXHRWWb6Jz-vAQ29qiQ=s900-c-k-c0xffffffff-no-rj-mo');
-insert into post (post_usr_id, post_bd_id, post_txt) values (3, 12, 'https://th.bing.com/th/id/OIP.W-TpSkn3MaNd18l3rRyRTwHaDV?pid=ImgDet&rs=1');
-insert into post (post_usr_id, post_bd_id, post_txt) values(4 , 13, 'https://magnolia-portugal.dunegestion.com/w4/php/dune/file.php?file=92003_lux.jpg&hash=e13e56e1f6');
 
 
 //guest
