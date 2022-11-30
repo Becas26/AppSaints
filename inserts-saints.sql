@@ -102,7 +102,6 @@ insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Salvador'
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mateus', 'Bares97', '1997-01-01','010 101 997');
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Martim', 'Martinhocas', '1990-06-03','879 000 595');
 
-
 //cPermanente
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (2, 1, 'Espaço lindo');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (12, 5, 'Seguranças antipáticos');
@@ -114,7 +113,7 @@ insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (15,13,'Espaç
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (17, 10,'Ótimo atendimento no bar');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (20,9,'Música muito boa');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (1,2,'Noites mágicas acontecem aqui ;)');
-insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (23,7'Deveriam rever os preços...');
+insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (23,7,'Deveriam rever os preços...');
 
 //post
 insert into post (post_usr_id, post_bd_id, post_txt) values (2, 1, 'https://lifecooler.com/files/registos/imagens/461421/400794.jpg');
@@ -133,23 +132,23 @@ insert into comentario(com_usr_id, com_post_id, com_txt) values (8, 2, 'acabei d
 insert into comentario(com_usr_id, com_post_id, com_txt) values (12, 2, 'A música está mesmo boa, vale a pena');
 insert into comentario(com_usr_id, com_post_id, com_txt) values (11, 1, 'tragam papel convosco porque aqui acabou');
 
+//ceo
+insert into ceo(ceo_usr_id, ceo_cod) values (1, '54321');
+insert into ceo(ceo_usr_id, ceo_cod) values (2, '54321');
+insert into ceo(ceo_usr_id, ceo_cod) values (3, '54321');
+
 //imagens
 insert into imagens(img_bd_id, img_ceo_id, img_url) values (1,2,'https://media-cdn.tripadvisor.com/media/photo-s/12/d4/00/55/piso-0-club.jpg');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (1,1,'https://cdn.cmjornal.pt/images/2016-11/img_900x509$2016_11_03_17_15_00_573716.jpg');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (1,3, 'https://th.bing.com/th/id/OIP.qBT0_yfOZHKS2Et5qtQ5jAHaE6?pid=ImgDet&rs=1');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (2,1, 'https://lifecooler.com/files/registos/imagens/299316/210229.jpg');
 
-
-//guest
-insert into guest (guest_rp_id, guest_bd_id, guest_txt) values(2,1, 'https://guestlist.wikinight.eu/tatianayerma08');
-insert into guest (guest_rp_id, guest_bd_id, guest_txt) values (1,13, 'https://guestlist.wikinight.eu/Lisboarioguiadanoite');
-
 //rp
 insert into rp(rp_usr_id, rp_cod) values (1, '12345');
 insert into rp(rp_usr_id, rp_cod) values (2, '12345');
 insert into rp(rp_usr_id, rp_cod) values (3, '12345');
 
-//ceo
-insert into ceo(ceo_usr_id, ceo_cod) values (1, '54321');
-insert into ceo(ceo_usr_id, ceo_cod) values (2, '54321');
-insert into ceo(ceo_usr_id, ceo_cod) values (3, '54321');
+//guest
+insert into guest (guest_rp_id, guest_bd_id, guest_txt) values(2,1, 'https://guestlist.wikinight.eu/tatianayerma08');
+insert into guest (guest_rp_id, guest_bd_id, guest_txt) values (1,13, 'https://guestlist.wikinight.eu/Lisboarioguiadanoite');
+
