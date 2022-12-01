@@ -1,8 +1,8 @@
-//tipo
+--tipo
 insert into tipo (tp_nome) values ('Discoteca');
 insert into tipo (tp_nome) values ('Bar');
 
-//baresdiscotecas
+--baresdiscotecas
 insert into baresdiscotecas (bd_name ,bd_loc , bd_horario, bd_tipo_id ,bd_contact ) values ('Mome', 'Edifício 78, Santos, R. da Cintura do Porto de Lisboa Armazém i, 1200-109 Lisboa ', 'Todos os dias, menos terça – 23:59 às 06:00', 1, '211 510 734' );
 
 insert into baresdiscotecas (bd_name ,bd_loc , bd_horario, bd_tipo_id ,bd_contact) values ('Bairro Latino', 'Edifício 78, Santos, R. da Cintura do Porto de Lisboa Armazém i, 1200-109 Lisboa', 'Quinta- 23:00 às 05:00 Sexta a Sábado- 23:00 às 06:00', 1, '966 660 838' );
@@ -86,7 +86,7 @@ insert into baresdiscotecas (bd_name ,bd_loc , bd_horario, bd_tipo_id ,bd_contac
 insert into baresdiscotecas (bd_name ,bd_loc , bd_horario, bd_tipo_id ,bd_contact ) values ('Antù', 'Rua do Corpo Santo 22, 1200-129 Lisboa', 'Segunda, terça e domingos 17:00-00:30 e Quarta a sábado 17:00-02:00', 2, '21 347 0634' );
 
 
-//users
+--users
 Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Rebeca', '12345', '2002-04-29','969 596 640' );
 Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Tatiana', 'tatiana08', '2002-10-08','961 814 054' );
 Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Camila', 'Tarzan007', '2003-12-19','929 056 735' );
@@ -102,7 +102,7 @@ insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Salvador'
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mateus', 'Bares97', '1997-01-01','010 101 997');
 insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Martim', 'Martinhocas', '1990-06-03','879 000 595');
 
-//cPermanente
+--cPermanente
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (2, 1, 'Espaço lindo');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (12, 5, 'Seguranças antipáticos');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (4,4, 'Ambiente agradável');
@@ -122,7 +122,7 @@ insert into post (post_usr_id, post_bd_id, post_txt) values (3, 12, 'https://th.
 insert into post (post_usr_id, post_bd_id, post_txt) values(4 , 13, 'https://magnolia-portugal.dunegestion.com/w4/php/dune/file.php?file=92003_lux.jpg&hash=e13e56e1f6');
 
 
-// comentario
+--comentario
 insert into comentario (com_usr_id, com_post_id, com_txt) values (3, 4, 'Está vazio. NÃO VENHAM' );
 Insert into comentario(com_usr_id, com_post_id, com_txt) values (2, 3, 'Malta venham todos para aqui, está ótimo!!!');
 insert into comentario(com_usr_id, com_post_id, com_txt) values (5,1, 'Muito cheio');
@@ -132,23 +132,23 @@ insert into comentario(com_usr_id, com_post_id, com_txt) values (8, 2, 'acabei d
 insert into comentario(com_usr_id, com_post_id, com_txt) values (12, 2, 'A música está mesmo boa, vale a pena');
 insert into comentario(com_usr_id, com_post_id, com_txt) values (11, 1, 'tragam papel convosco porque aqui acabou');
 
-//ceo
+--ceo
 insert into ceo(ceo_usr_id, ceo_cod) values (1, '54321');
 insert into ceo(ceo_usr_id, ceo_cod) values (2, '54321');
 insert into ceo(ceo_usr_id, ceo_cod) values (3, '54321');
 
-//imagens
+--imagens
 insert into imagens(img_bd_id, img_ceo_id, img_url) values (1,2,'https://media-cdn.tripadvisor.com/media/photo-s/12/d4/00/55/piso-0-club.jpg');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (1,1,'https://cdn.cmjornal.pt/images/2016-11/img_900x509$2016_11_03_17_15_00_573716.jpg');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (1,3, 'https://th.bing.com/th/id/OIP.qBT0_yfOZHKS2Et5qtQ5jAHaE6?pid=ImgDet&rs=1');
 insert into imagens (img_bd_id, img_ceo_id, img_url) values (2,1, 'https://lifecooler.com/files/registos/imagens/299316/210229.jpg');
 
-//rp
+--rp
 insert into rp(rp_usr_id, rp_cod) values (1, '12345');
 insert into rp(rp_usr_id, rp_cod) values (2, '12345');
 insert into rp(rp_usr_id, rp_cod) values (3, '12345');
 
-//guest
+--guest
 insert into guest (guest_rp_id, guest_bd_id, guest_txt) values(2,1, 'https://guestlist.wikinight.eu/tatianayerma08');
 insert into guest (guest_rp_id, guest_bd_id, guest_txt) values (1,13, 'https://guestlist.wikinight.eu/Lisboarioguiadanoite');
 
