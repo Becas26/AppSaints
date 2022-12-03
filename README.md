@@ -98,11 +98,15 @@ Aqui estão uns *mockups* de “Saints” para que seja mais fácil visualizar o
 
 # Planeamento e calendarização do projeto:
 
-![](media/a8eafc262b73cda45396d4bd61850857.jpg)
+![image](https://user-images.githubusercontent.com/102540581/205465871-f9eb9744-019b-41c7-a97f-e60994abc1ea.png)
 
-# ![](media/54556767b005564518929ead602aadbf.jpeg)Esboço da estrutura de dados presentes na BD
 
-# ![](media/3cab06fe459b176ab86e893d6212c60b.png)Primeira versão do Dicionário de Dados
+# Esboço da estrutura de dados presentes na BD
+![image](https://user-images.githubusercontent.com/102540581/205465897-e3feec05-23bb-4562-9c30-4e34a41759d6.png)
+
+
+# Primeira versão do Dicionário de Dados
+![image](https://user-images.githubusercontent.com/102540581/205465904-18d8b312-a063-4167-9dae-7e57d9fd1574.png)
 
 # Bibliografia
 
