@@ -83,7 +83,9 @@ A nossa aplicação está pensada em ser simples e eficaz na sua utilização pa
 
 Aqui estão uns *mockups* de “Saints” para que seja mais fácil visualizar o funcionamento da nossa aplicação.
 
-![](media/c9bf7654b630abeacf41845f93fd9e74.png) ![](media/915944f13f2a31c6e8a20ef5028a9025.png)
+
+<img width="596" alt="MOCKUP1" src="https://user-images.githubusercontent.com/102540581/205465821-44e4218b-eb6c-4d4a-b444-b4212b136687.png">
+<img width="600" alt="MOCKUP2" src="https://user-images.githubusercontent.com/102540581/205465857-3c7e604d-b267-46a4-ae68-917bee9114d1.png">
 
 # Enquadramento nas diversas Unidades Curriculares
 
