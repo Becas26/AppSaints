@@ -11,7 +11,7 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 
 
-Índice
+**Índice**
 
 
 [Introdução](#_Toc120824864)
@@ -73,9 +73,9 @@ A nossa aplicação está pensada em ser simples e eficaz na sua utilização pa
     Também vamos ter dois botões de grandes dimensões, um a dizer “Bares” e outro “Discotecas”.
 
 4.  Ao clicar no botão “Bares” será encaminhado para uma nova página que vai apresentar as fotografias tiradas em tempo real de todos os utilizadores, em cima da fotografia é possível visualizar o bar onde essa pessoa se encontra e em baixo da fotografia encontrase uma caixa onde podem se inserir comentários em relação à mesma. No final desta página encontra-se outra vez um botão designado por “bares” e no canto direito superior encontra-se uma seta que ao ser clicada o utilizador volta sempre para a página anterior, esta seta vai estra presente em todas as outras páginas da aplicação menos a principal.
-5.  Para o utilizador aceder à lista de bares que “Saints” disponibiliza basta carregar em
 
-    “bares” e será aberta outra página com essa lista.
+5.  Para o utilizador aceder à lista de bares que “Saints” disponibiliza basta carregar em
+ “bares” e será aberta outra página com essa lista.
 
 6.  Se quiser informações detalhadas de cada bar o utilizador terá de selecionar o bar que lhe chamou a atenção e será encaminhado para outra página, nesta página encontram-se informações sobre bar, fotografais do espaço e comentário permanentes sobre o estabelecimento em questão. O mesmo processo de utilização vai se repetir se o utilizador estiver interessado em encontrar discotecas na cidade de Lisboa simplesmente terá de clicar no botão “Discotecas”.
 
