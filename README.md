@@ -1,8 +1,8 @@
+![image](https://user-images.githubusercontent.com/102540581/205465987-a85586be-dcd6-4b45-a71b-a84663f615e9.png)
+
 **Saints**
 
-Camila Madatali (20210832), Rebeca Sampaio (20211332) e Tatiana
-
-![](media/57c1f6e6a20a5e54f2f10ee2ba820735.png)Yermachenkava (20210697)
+Camila Madatali (20210832), Rebeca Sampaio (20211332) e Tatiana Yermachenkava (20210697)
 
 Universidade Europeia, IADE – curso de Engenharia Informática
 
