@@ -6,13 +6,11 @@ Camila Madatali (20210832), Rebeca Sampaio (20211332) e Tatiana
 
 Universidade Europeia, IADE – curso de Engenharia Informática
 
-Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolvimento
+Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolvimento Móvel
 
-Móvel
 
-Link para o repositório GitHub: <https://github.com/Becas26/AppSaints> <https://github.com/Becas26/AppSaints>
 
-Índice
+#Índice
 
 Conteúdo
 
