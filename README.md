@@ -1,5 +1,6 @@
+# Saints
 ![image](https://user-images.githubusercontent.com/102540581/205465987-a85586be-dcd6-4b45-a71b-a84663f615e9.png)
-###### Saints
+
 
 Camila Madatali (20210832), Rebeca Sampaio (20211332) e Tatiana Yermachenkava (20210697)
 
@@ -106,6 +107,10 @@ Aqui estão uns *mockups* de “Saints” para que seja mais fácil visualizar o
 
 # Primeira versão do Dicionário de Dados
 ![image](https://user-images.githubusercontent.com/102540581/205465904-18d8b312-a063-4167-9dae-7e57d9fd1574.png)
+
+# Diagrama de classes 
+![28ee8a14-ade2-4239-a2f9-decfcad0c633](https://user-images.githubusercontent.com/102540581/205472519-0ccaf7bf-6132-4a31-a40c-bf93e88dc32b.jpeg)
+
 
 # Bibliografia
 
