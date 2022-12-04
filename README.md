@@ -31,9 +31,10 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Primeira versão do Dicionário de Dados](#primeira-versão-do-dicionário-de-dados)
 
+[Diagrama de classes](#_Diagrama-de-classes)
+
 [Bibliografia](#_Toc120824874)
 
-[Diagrama de classes](#_Diagrama-de-classes)
 
 # Introdução
 
