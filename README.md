@@ -15,25 +15,25 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Objetivos](#Objetivos)
 
-[Mercados semelhantes](#_Toc120824866)
+[Mercados semelhantes](#Mercados-semelhantes)
 
 [Guiões de Teste](#Guiões-de-Teste)
 
-[Utilização da aplicação](#_Toc120824868)
+[Utilização da aplicação](#Utilização-da-aplicação)
 
 [Mockups](#mockups)
 
 [Enquadramento nas diversas Unidades Curriculares](#enquadramento-nas-diversas-unidades-curriculares)
 
-[Planeamento e calendarização do projeto:](#_Toc120824871)
+[Planeamento e calendarização do projeto](#Planeamento-e-calendarização-do-projeto)
 
 [Esboço da estrutura de dados presentes na BD](#esboço-da-estrutura-de-dados-presentes-na-bd)
 
 [Primeira versão do Dicionário de Dados](#primeira-versão-do-dicionário-de-dados)
 
-[Diagrama de classes](#_Diagrama-de-classes)
+[Diagrama de classes](#Diagrama-de-classes)
 
-[Bibliografia](#_Toc120824874)
+[Bibliografia](#Bibliografia)
 
 
 # Introdução
