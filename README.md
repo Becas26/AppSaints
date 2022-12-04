@@ -33,6 +33,8 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Bibliografia](#_Toc120824874)
 
+[Diagrama de classes](#_Diagrama-de-classes)
+
 # Introdução
 
 Propuseram-nos a criação de uma nova aplicação que englobasse os conhecimentos de diversas Unidades Curriculares para ser possível a realização da mesma. Atualmente existem vários estabelecimentos noturnos em Lisboa, nomeadamente na zona de Santos. O problema surge quando chega o momento de decidir onde passar a noite e qual o estabelecimento que está mais movimentado. Com o propósito de resolver este problema pretendemos criar a “Saints”, uma aplicação dinâmica e benéfica que tem como objetivo facilitar e melhorar a vida noturna das pessoas em Santos.
