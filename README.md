@@ -13,11 +13,11 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Introdução](#Introdução)
 
-[Objetivos](#_Toc120824865)
+[Objetivos](#Objetivos)
 
 [Mercados semelhantes](#_Toc120824866)
 
-[Guiões de Teste](#_Toc120824867)
+[Guiões de Teste](#Guiões-de-Teste)
 
 [Utilização da aplicação](#_Toc120824868)
 
