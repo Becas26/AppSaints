@@ -27,7 +27,7 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Planeamento e calendarização do projeto:](#_Toc120824871)
 
-[Esboço da estrutura de dados presentes na BD](#_Toc120824872)
+[Esboço da estrutura de dados presentes na BD](#esboço-da-estrutura-de-dados-presentes-na-bd)
 
 [Primeira versão do Dicionário de Dados](#primeira-versão-do-dicionário-de-dados)
 
