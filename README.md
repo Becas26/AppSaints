@@ -8,10 +8,7 @@ Universidade Europeia, IADE – curso de Engenharia Informática
 
 Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolvimento Móvel
 
-
-
-
-**Índice**
+# Índice
 
 
 [Introdução](#_Toc120824864)
