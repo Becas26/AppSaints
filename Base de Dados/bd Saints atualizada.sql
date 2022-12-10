@@ -5,7 +5,8 @@ create table users (
 	usr_bdate date NOT NULL,
 	usr_tele VARCHAR (100) NOT NULL UNIQUE,
     usr_active boolean not null default false,
-    usr_code varchar not null
+    usr_code varchar not null,
+    usr_rp_ceo_code varchar
 );
 
 create table cPermanente (
@@ -102,6 +103,7 @@ create table comentario (
     CONSTRAINT post_fk_usr FOREIGN KEY (com_post_id) references post(post_id) 
     ON DELETE CASCADE ON UPDATE CASCADE
 );
+
 
 
 
