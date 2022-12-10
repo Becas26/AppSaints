@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Becas26 
-Becas26
-/
-AppSaints
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-AppSaints/inserts-saints.sql
-@Becas26
-Becas26 Update inserts-saints.sql
-Latest commit 75a7e6e 3 days ago
- History
- 2 contributors
-@tatianayr@Becas26
-154 lines (101 sloc)  14.7 KB
+
 
 --tipo
 insert into tipo (tp_nome) values ('Discoteca');
@@ -118,20 +89,20 @@ insert into baresdiscotecas (bd_name ,bd_loc , bd_horario, bd_tipo_id ,bd_contac
 
 
 --users
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Rebeca', '12345', '2002-04-29','969 596 640' );
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Tatiana', 'tatiana08', '2002-10-08','961 814 054' );
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Camila', 'Tarzan007', '2003-12-19','929 056 735' );
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Rodrigo', '1234', '2000-04-29','929 596 640' );
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Julia', '020202', '2002-03-08','961 869 054' );
-Insert into users (usr_name,usr_senha, usr_bdate, usr_tele) values  ('Margarida', '030303', '2003-12-02','967 056 735' );
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mariana', '010101', '2001-02-03','555 000 555');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Gonçalo', 'Camila10', '2003-08-21','100 011 022');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Rita', 'linda', '2004-05-04','400 505 555');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Sofia', '1874', '2001-09-18','201 090 180');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Valentina', 'peixinho', '1996-08-16','897 222 559');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Salvador', 'Mariana03', '2001-12-24','102 000 224');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Mateus', 'Bares97', '1997-01-01','010 101 997');
-insert into users (usr_name, usr_senha , usr_bdate, usr_tele) values ('Martim', 'Martinhocas', '1990-06-03','879 000 595');
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele, usr_code) values  ('Rebeca', '12345', '2002-04-29','969 596 640', '123456');
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele, usr_code) values  ('Tatiana', 'tatiana08', '2002-10-08','961 814 054','133456' );
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele, usr_code) values  ('Camila', 'Tarzan007', '2003-12-19','929 056 735', '123457');
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele, usr_code) values  ('Rodrigo', '1234', '2000-04-29','929 596 640','133476' );
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele, usr_code) values  ('Julia', '020202', '2002-03-08','961 869 054','133458' );
+Insert into users (usr_name,usr_senha, usr_bdate, usr_tele, usr_code) values  ('Margarida', '030303', '2003-12-02','967 056 735','183456' );
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Mariana', '010101', '2001-02-03','555 000 555','193456' );
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Gonçalo', 'Camila10', '2003-08-21','100 011 022','133496' );
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Rita', 'linda', '2004-05-04','400 505 555','133999');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Sofia', '1874', '2001-09-18','201 090 180','138909');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Valentina', 'peixinho', '1996-08-16','897 222 559','199999');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Salvador', 'Mariana03', '2001-12-24','102 000 224','138888');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Mateus', 'Bares97', '1997-01-01','010 101 997','133456');
+insert into users (usr_name, usr_senha , usr_bdate, usr_tele, usr_code) values ('Martim', 'Martinhocas', '1990-06-03','879 000 595','133456');
 
 --cPermanente
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (2, 1, 'Espaço lindo');
@@ -146,7 +117,7 @@ insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (20,9,'Música
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (1,2,'Noites mágicas acontecem aqui ;)');
 insert into cPermanente(comp_bd_id, comp_usr_id, comp_txt) values (23,7,'Deveriam rever os preços...');
 
-//post
+
 insert into post (post_usr_id, post_bd_id, post_txt) values (2, 1, 'https://lifecooler.com/files/registos/imagens/461421/400794.jpg');
 insert into post (post_usr_id, post_bd_id, post_txt) values (1, 11, 'https://yt3.ggpht.com/a/AATXAJwuToYnwwkIvYe--lRXXHRWWb6Jz-vAQ29qiQ=s900-c-k-c0xffffffff-no-rj-mo');
 insert into post (post_usr_id, post_bd_id, post_txt) values (3, 12, 'https://th.bing.com/th/id/OIP.W-TpSkn3MaNd18l3rRyRTwHaDV?pid=ImgDet&rs=1');
