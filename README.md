@@ -1,4 +1,4 @@
-![image]((Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.001.png)
+![image](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.001.png)
 
 
 
