@@ -104,7 +104,8 @@ Como descrito anteriormente, a nossa aplicação tem como objetivo melhorar as s
 
 # Diagrama de classes
 
-![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.016.jpeg)
+![image](https://user-images.githubusercontent.com/102540581/212445624-5d89f4b7-2495-4d53-a10a-a612aa7f34b1.png)
+
 
 # Documentação REST
 
