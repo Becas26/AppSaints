@@ -66,7 +66,7 @@ Como é possível averiguar, Saints é a juncão aperfeiçoada de duas aplicaç�
 
 # Enquadramento nas diversas Unidades Curriculares
 
-# Base de dados:** Utilizamos base de dados para armazenamento e organização de dados         estruturados de maneira protegida e acessível. Foi desenvolvida em PostgreSQL utilizando UML; 
+ **Base de dados:** Utilizamos base de dados para armazenamento e organização de dados         estruturados de maneira protegida e acessível. Foi desenvolvida em PostgreSQL utilizando UML; 
 
 **Programação Orientada a Objetos:** Desenvolvemos um servidor em Spring Boot usando arquitetura REST. Utilizando o post para testar e documentar API; 
 
