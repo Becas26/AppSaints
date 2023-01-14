@@ -34,11 +34,11 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [***Documentação de base de dados 9](#_page8_x25.00_y515.92)         ***![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.012.png)[Planeamento e calendarização do projeto: 10*** ](#_page9_x25.00_y90.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.013.png)[Tarefas e contribuição dos elementos 10](#_page9_x25.00_y591.92)    ![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.014.png)[Bibliografia 11***](#_page10_x25.00_y131.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.015.png)***
 
-**Introdução** 
+# Introdução
 
 Propuseram-nos a criação de uma nova aplicação que englobasse os conhecimentos de diversas Unidades Curriculares para ser possível a realização da mesma. Atualmente existem vários estabelecimentos noturnos em Lisboa, nomeadamente na zona de Santos. O problema surge quando chega o momento de decidir onde passar a noite e qual o estabelecimento que está mais movimentado. A nossa aplicação tem como público-alvo os jovens, podendo, no entanto, servir também para pessoas mais velhas. Com o propósito de resolver este problema criámos “Saints”, uma aplicação dinâmica e benéfica que tem como objetivo facilitar e melhorar a vida noturna das pessoas em Santos. 
 
-**Objetivos** 
+# Objetivos
 
 Saints não só oferece informações detalhadas, *reviews*, *guest lists* e fotografias do espaço de todas as discotecas e maior parte dos bares na região de Santos, como também é possível para cada utilizador partilhar em tempo real uma fotografia do estabelecimento em que se encontra nessa noite. A partir deste sistema de partilha de publicações feitas na hora é possível criar uma interação entre os utilizadores de modo a facilitar a escolha do estabelecimento. Adicionalmente, em cada publicação estará disponível uma secção para comentários onde todos poderão interagir e relatar detalhes da noite que estejam a acontecer em tempo real. Acreditamos que seja uma aplicação útil para quem queira sair à noite, principalmente para os que não o fazem com frequência, visto que, regra geral, cada noite tem como associação um determinado espaço noturno, mas nem todos têm esse conhecimento, tal como também poderá haver muitos outros espaços que não sejam conhecidos em grande escala, mas que também oferecem tudo para uma ótima noite. 
 
