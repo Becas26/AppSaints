@@ -128,7 +128,7 @@ Como descrito anteriormente, a nossa aplicação tem como objetivo melhorar as s
 
 # Tarefas e contribuição dos elementos** 
 
-![image](![image](https://user-images.githubusercontent.com/102540581/212442176-d852e32c-1479-416b-8152-43b8a3d5455b.png)
+![image](https://user-images.githubusercontent.com/102540581/212442176-d852e32c-1479-416b-8152-43b8a3d5455b.png)
 
 # Bibliografia
 
