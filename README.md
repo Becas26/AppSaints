@@ -14,8 +14,6 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 — 
 
-[**Link para repositório de Github** ](https://github.com/Becas26/AppSaints)
-
 # Índice 
 
 [Introdução](#Introdução)
