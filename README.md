@@ -128,7 +128,7 @@ Como descrito anteriormente, a nossa aplicação tem como objetivo melhorar as s
 
 # Tarefas e contribuição dos elementos** 
 
-![image](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.018.png)
+![image](![image](https://user-images.githubusercontent.com/102540581/212442176-d852e32c-1479-416b-8152-43b8a3d5455b.png)
 
 # Bibliografia
 
