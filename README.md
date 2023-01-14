@@ -22,17 +22,29 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Objetivos](#Objetivos)
 
-[***Mercados semelhantes 4***](#_page3_x25.00_y49.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.004.png)
+[Mercados semelhantes](#Mercados-semelhantes)
 
-[***Descrição genérica da solução a implementar 7](#_page6_x25.00_y382.92)      ***![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.005.png)[Enquadramento nas diversas Unidades Curriculares 5*** ](#_page4_x25.00_y90.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.006.png)[Arquitetura da Solução 6***](#_page5_x25.00_y324.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.007.png)***
+[Descrição genérica da solução a implementar ](#Descrição-genérica-da-solução-a-implementar ) 
 
-[***Tecnologias utilizadas 7*** ](#_page6_x25.00_y54.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.008.png)[Documentação REST 9***](#_page8_x25.00_y117.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.009.png)
+[Enquadramento nas diversas Unidades Curriculares](#enquadramento-nas-diversas-unidades-curriculares)
 
-[***Manual do Utilizador 9***](#_page8_x25.00_y264.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.010.png)
+[Arquitetura da Solução](#Arquitetura-da-Solução)
 
-[***Guiões de utilização 9***](#_page8_x25.00_y385.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.011.png)
+[Tecnologias utilizadas](#Tecnologias-utilizadas)
 
-[***Documentação de base de dados 9](#_page8_x25.00_y515.92)         ***![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.012.png)[Planeamento e calendarização do projeto: 10*** ](#_page9_x25.00_y90.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.013.png)[Tarefas e contribuição dos elementos 10](#_page9_x25.00_y591.92)    ![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.014.png)[Bibliografia 11***](#_page10_x25.00_y131.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.015.png)***
+[Documentação REST](#Documentação-REST)
+
+[Manual do Utilizador](#Documentação REST)
+
+[Guiões de utilização](#Guiões-de-utilização)
+
+[Documentação de base de dados](#Documentação-de-base-de-dados)
+
+[Planeamento e calendarização do projeto](#Planeamento-e-calendarização-do-projeto)
+
+[Tarefas e contribuição dos elementos](#Tarefas-e-contribuição-dos-elementos)   
+
+[Bibliografia](#Bibliografia)
 
 # Introdução
 
@@ -44,7 +56,7 @@ Saints não só oferece informações detalhadas, *reviews*, *guest lists* e fot
 
 Com esta aplicação queremos evitar a preocupação e a perda de tempo à procura da melhor festa dessa noite ou na pior das hipóteses, que desistam simplesmente dela. 
 
-**Mercados semelhantes** 
+# Mercados semelhantes
 
 Para o desenvolvimento da aplicação baseamo-nos em aplicações já existentes no mercado como a **“Wikinight”** e o “**Instagram"**. A “Wikinight “é uma aplicação que fornece toda a informação que um utilizador pode precisar para uma saída à noite, por Portugal e não só. Além de festas em discotecas e bares, também disponibiliza informação acerca de concertos que irão ocorrer. Esta aplicação também tem uma secção onde dá para selecionar entre “Eu vou!” e “Eu não vou” a um certo evento, guardando depois esses dados, dando a possibilidade de outros utilizadores conseguirem ver a estatística. Fazemos comparação da “Wikinight” com a “Saints” uma vez que também tem o propósito de dar aos utilizadores os estabelecimentos que terão maior êxito nessa noite. Para além de que dispomos de informação como localização, contactos, horários e fotografias de cada estabelecimento. 
 
@@ -52,9 +64,9 @@ Tal como referido anteriormente, haverá a oportunidade de partilhar em tempo re
 
 Como é possível averiguar, Saints é a juncão aperfeiçoada de duas aplicações fortes no mercado, tornando-a, portanto, uma aplicação útil e relevante.  
 
-**Enquadramento nas diversas Unidades Curriculares** 
+# Enquadramento nas diversas Unidades Curriculares
 
-**Base de dados:** Utilizamos base de dados para armazenamento e organização de dados         estruturados de maneira protegida e acessível. Foi desenvolvida em PostgreSQL utilizando UML; 
+# Base de dados:** Utilizamos base de dados para armazenamento e organização de dados         estruturados de maneira protegida e acessível. Foi desenvolvida em PostgreSQL utilizando UML; 
 
 **Programação Orientada a Objetos:** Desenvolvemos um servidor em Spring Boot usando arquitetura REST. Utilizando o post para testar e documentar API; 
 
@@ -62,7 +74,7 @@ Como é possível averiguar, Saints é a juncão aperfeiçoada de duas aplicaç�
 
 **Competências comunicacionais:** Iremos trabalhar para evoluir a capacidade de comunicação dos projetos para um público leigo, através de apresentações orais e preparação de suportes visuais.   
 
-**Requisitos Técnicos para desenvolvimento do projeto**
+# Requisitos Técnicos para desenvolvimento do projeto
 
 A aplicação tem como requisitos técnicos a utilização da localização do dispositivo, a utilização da câmera, mapas e dados salvaguardados na base de dados.  
 
@@ -70,7 +82,7 @@ A aplicação tem como requisitos técnicos a utilização da localização do d
 - Linguagem SQL -> Para uso e configuração da base de dados; 
 - Post man -> para testar e documentar API. 
 
-**Arquitetura da Solução** 
+# Arquitetura da Solução
 
 A nossa aplicação, embora pequena, requer uma administração entre vários equipamentos e tecnologias, assim como uma infraestrutura sólida e de fácil manutenção. Saints tem suporte aplicacional através de webservices utilizando a arquitetura REST e base de dados. 
 
@@ -80,7 +92,7 @@ Os diversos componentes a integrados são:
 - Backend API  
 - Aplicação Android 
 
-**Tecnologias utilizadas** 
+# Tecnologias utilizadas
 
 - [Spring Boot ](https://spring.io/projects/spring-boot)e[ Visual studio ](https://code.visualstudio.com/)-> Para backend api;  
 - [PostgreSQL-](https://www.postgresql.org/)> Para a base de dados;  
@@ -88,39 +100,39 @@ Os diversos componentes a integrados são:
 - [Postam ](https://www.postman.com/)-> Para criar, testar e documentar API; 
 - [Github ](https://github.com/)e[ Clickup ](https://app.clickup.com)-> Monitorização do Projeto  
 
-**Descrição genérica da solução a implementar** 
+# Descrição genérica da solução a implementar
 
 Como descrito anteriormente, a nossa aplicação tem como objetivo melhorar as saídas noturnas em Santos. Este projeto inclui o uso da câmara fotográfica para a publicação das fotografias em tempo real, incluí localização geográfica dos estabelecimentos para a publicação das fotografias, tal como informação relevantes sobre cada estabelecimento. 
 
-**Diagrama de classes** 
+# Diagrama de classes
 
 ![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.016.jpeg)
 
-**Documentação REST** 
+# Documentação REST
 
 [Link para vizualização da documetação REST na plataforma Github ](https://github.com/Becas26/AppSaints/blob/main/Doc%20REST.pdf)
 
-**Manual do Utilizador**  
+# Manual do Utilizador  
 
 [Link para vizualização do manual do utilizador ](https://github.com/Becas26/AppSaints/blob/main/ManualUtilizador.pdf)
 
-**Guiões de utilização**  
+# Guiões de utilização
 
 [Link para a vizualização dos guiões de utilização ](https://github.com/Becas26/AppSaints/blob/main/Gui%C3%B5esUtiliza%C3%A7%C3%A3o.pdf)
 
-**Documentação de base de dados** 
+# Documentação de base de dados
 
 [Link para a vizualização da documentação da base de dados ](https://github.com/Becas26/AppSaints/tree/main/Base%20de%20Dados)
 
-**Planeamento e calendarização do projeto:**  
+# Planeamento e calendarização do projeto:
 
 ![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.017.jpeg)
 
-**Tarefas e contribuição dos elementos** 
+# Tarefas e contribuição dos elementos** 
 
 ![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.018.png)
 
-**Bibliografia** 
+# Bibliografia
 
 - [Instagram  ](https://www.instagram.com/)
 - Onde sair à noite, discotecas, bares e eventos noturnos [- wikinight  ](https://wikinight.eu/pt)
@@ -128,4 +140,4 @@ Como descrito anteriormente, a nossa aplicação tem como objetivo melhorar as s
   - [MAGG (sapo.pt)  ](https://magg.sapo.pt/atualidade/atualidade-nacional/artigos/wikinight-a-nova-app-que-e-uma-agenda-da-vida-noturna-portuguesa)
 - [Clickup  ](https://app.clickup.com/?fromLanding=true)
 - [https://www.lucidchart.com/pages/pt ](https://www.lucidchart.com/pages/pt)
-**Saints  PÁGINA 11** 
+ 
