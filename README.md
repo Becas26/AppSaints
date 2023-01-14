@@ -16,11 +16,11 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [**Link para repositório de Github** ](https://github.com/Becas26/AppSaints)
 
-Índice 
+# Índice 
 
-[***Introdução 3***](#_page2_x25.00_y36.92)
+[Introdução](#Introdução)
 
-[***Objetivos 3***](#_page2_x25.00_y330.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.003.png)
+[Objetivos](#Objetivos)
 
 [***Mercados semelhantes 4***](#_page3_x25.00_y49.92)![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.004.png)
 
