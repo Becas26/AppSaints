@@ -124,7 +124,7 @@ Como descrito anteriormente, a nossa aplicação tem como objetivo melhorar as s
 
 # Planeamento e calendarização do projeto:
 
-![](Aspose.Words.953b39b1-f79c-457a-901e-69a0794f65b1.017.jpeg)
+![image](https://user-images.githubusercontent.com/102540581/205465871-f9eb9744-019b-41c7-a97f-e60994abc1ea.png)
 
 # Tarefas e contribuição dos elementos** 
 
