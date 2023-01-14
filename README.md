@@ -32,7 +32,7 @@ Trabalho realizado no âmbito da Unidade Curricular de Projeto de Desenvolviment
 
 [Documentação REST](#Documentação-REST)
 
-[Manual do Utilizador](#Documentação REST)
+[Manual do Utilizador](#Manual-do-Utilizador)
 
 [Guiões de utilização](#Guiões-de-utilização)
 
